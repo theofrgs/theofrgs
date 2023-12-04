@@ -51,9 +51,8 @@ Feel free to reach out if you have any questions or want to discuss:
 📫 How to Reach Me
 
 You can connect with me through:
-
-    - Email: theo.fargeas@epitech.eu
-    - LinkedIn: [Théo Fargeas](https://www.linkedin.com/in/theo-fargeas-127046197/)
+  - Email: theo.fargeas@epitech.eu
+  - - LinkedIn: https://www.linkedin.com/in/theo-fargeas-127046197/
 
 ⚡ Fun Fact
 
