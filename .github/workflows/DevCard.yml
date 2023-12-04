@@ -15,11 +15,7 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: test
-        run: |
-              echo "hello world"
-              echo ${{ secrets.DEVCARD_ID }}
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          devcard_id: 00e9aa381b73436d82c66e9f6140ba9a
